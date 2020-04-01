@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/km-js/fcc-random-quote-generator.git/precache-manifest.bbaf34fa98c4fe05e103c9cf27d2a07d.js"
+  "/fcc-random-quote-generator.git/precache-manifest.f215ef772b7e99765a6468ee1d5010c7.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/km-js/fcc-random-quote-generator.git/index.html", {
+workbox.routing.registerNavigationRoute("/fcc-random-quote-generator.git/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

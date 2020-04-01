@@ -1,13 +1,13 @@
 {
-  "main.css": "/km-js/fcc-random-quote-generator.git/static/css/main.2d9aeb33.chunk.css",
-  "main.js": "/km-js/fcc-random-quote-generator.git/static/js/main.ed76438c.chunk.js",
-  "main.js.map": "/km-js/fcc-random-quote-generator.git/static/js/main.ed76438c.chunk.js.map",
-  "runtime~main.js": "/km-js/fcc-random-quote-generator.git/static/js/runtime~main.ae89fa6f.js",
-  "runtime~main.js.map": "/km-js/fcc-random-quote-generator.git/static/js/runtime~main.ae89fa6f.js.map",
-  "static/js/2.8edb5f72.chunk.js": "/km-js/fcc-random-quote-generator.git/static/js/2.8edb5f72.chunk.js",
-  "static/js/2.8edb5f72.chunk.js.map": "/km-js/fcc-random-quote-generator.git/static/js/2.8edb5f72.chunk.js.map",
-  "index.html": "/km-js/fcc-random-quote-generator.git/index.html",
-  "precache-manifest.bbaf34fa98c4fe05e103c9cf27d2a07d.js": "/km-js/fcc-random-quote-generator.git/precache-manifest.bbaf34fa98c4fe05e103c9cf27d2a07d.js",
-  "service-worker.js": "/km-js/fcc-random-quote-generator.git/service-worker.js",
-  "static/css/main.2d9aeb33.chunk.css.map": "/km-js/fcc-random-quote-generator.git/static/css/main.2d9aeb33.chunk.css.map"
+  "main.css": "/fcc-random-quote-generator.git/static/css/main.2d9aeb33.chunk.css",
+  "main.js": "/fcc-random-quote-generator.git/static/js/main.874ad7ed.chunk.js",
+  "main.js.map": "/fcc-random-quote-generator.git/static/js/main.874ad7ed.chunk.js.map",
+  "runtime~main.js": "/fcc-random-quote-generator.git/static/js/runtime~main.6d0960c5.js",
+  "runtime~main.js.map": "/fcc-random-quote-generator.git/static/js/runtime~main.6d0960c5.js.map",
+  "static/js/2.8edb5f72.chunk.js": "/fcc-random-quote-generator.git/static/js/2.8edb5f72.chunk.js",
+  "static/js/2.8edb5f72.chunk.js.map": "/fcc-random-quote-generator.git/static/js/2.8edb5f72.chunk.js.map",
+  "index.html": "/fcc-random-quote-generator.git/index.html",
+  "precache-manifest.f215ef772b7e99765a6468ee1d5010c7.js": "/fcc-random-quote-generator.git/precache-manifest.f215ef772b7e99765a6468ee1d5010c7.js",
+  "service-worker.js": "/fcc-random-quote-generator.git/service-worker.js",
+  "static/css/main.2d9aeb33.chunk.css.map": "/fcc-random-quote-generator.git/static/css/main.2d9aeb33.chunk.css.map"
 }
