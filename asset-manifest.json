@@ -1,13 +1,13 @@
 {
-  "main.css": "/fcc-random-quote-generator.git/static/css/main.2d9aeb33.chunk.css",
-  "main.js": "/fcc-random-quote-generator.git/static/js/main.874ad7ed.chunk.js",
-  "main.js.map": "/fcc-random-quote-generator.git/static/js/main.874ad7ed.chunk.js.map",
-  "runtime~main.js": "/fcc-random-quote-generator.git/static/js/runtime~main.6d0960c5.js",
-  "runtime~main.js.map": "/fcc-random-quote-generator.git/static/js/runtime~main.6d0960c5.js.map",
-  "static/js/2.8edb5f72.chunk.js": "/fcc-random-quote-generator.git/static/js/2.8edb5f72.chunk.js",
-  "static/js/2.8edb5f72.chunk.js.map": "/fcc-random-quote-generator.git/static/js/2.8edb5f72.chunk.js.map",
-  "index.html": "/fcc-random-quote-generator.git/index.html",
-  "precache-manifest.f215ef772b7e99765a6468ee1d5010c7.js": "/fcc-random-quote-generator.git/precache-manifest.f215ef772b7e99765a6468ee1d5010c7.js",
-  "service-worker.js": "/fcc-random-quote-generator.git/service-worker.js",
-  "static/css/main.2d9aeb33.chunk.css.map": "/fcc-random-quote-generator.git/static/css/main.2d9aeb33.chunk.css.map"
+  "main.css": "/fcc-random-quote-generator/static/css/main.2d9aeb33.chunk.css",
+  "main.js": "/fcc-random-quote-generator/static/js/main.ee1bd26c.chunk.js",
+  "main.js.map": "/fcc-random-quote-generator/static/js/main.ee1bd26c.chunk.js.map",
+  "runtime~main.js": "/fcc-random-quote-generator/static/js/runtime~main.37850405.js",
+  "runtime~main.js.map": "/fcc-random-quote-generator/static/js/runtime~main.37850405.js.map",
+  "static/js/2.8edb5f72.chunk.js": "/fcc-random-quote-generator/static/js/2.8edb5f72.chunk.js",
+  "static/js/2.8edb5f72.chunk.js.map": "/fcc-random-quote-generator/static/js/2.8edb5f72.chunk.js.map",
+  "index.html": "/fcc-random-quote-generator/index.html",
+  "precache-manifest.b653677e57e1fbf338fd6c8bd0bd6ae1.js": "/fcc-random-quote-generator/precache-manifest.b653677e57e1fbf338fd6c8bd0bd6ae1.js",
+  "service-worker.js": "/fcc-random-quote-generator/service-worker.js",
+  "static/css/main.2d9aeb33.chunk.css.map": "/fcc-random-quote-generator/static/css/main.2d9aeb33.chunk.css.map"
 }
