@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/fcc-random-quote-generator/static/css/main.2d9aeb33.chunk.css"
   },
   {
-    "revision": "a73f6b5e00eab8f6cf070bcae20fa859",
+    "revision": "a982d370329a2d7bf52205bc5004874f",
     "url": "/fcc-random-quote-generator/index.html"
   }
 ];
